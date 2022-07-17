@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ananya.
 #### I am currently a third year engineering student majoring in IT.
 Being an AI and Data Science enthusiast, I have worked on analyzing data related to various ML,DL models (NLP, LSTM, Classification etc.) and training them in Jupyter Notebook. I have previously worked on NLP of conversational AI bots during an internship.
-I also take keen interest in writing blogs.
+
 
 Skills: Jupyter Notebook/ Python / EDA 
 
