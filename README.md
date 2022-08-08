@@ -3,10 +3,10 @@
 Being an AI and Data Science enthusiast, I have worked on analyzing data related to various ML,DL models (NLP, LSTM, Classification etc.) and training them in Jupyter Notebook. I have previously worked on NLP in conversational AI bots during an internship.
 
 
-Skills: Jupyter Notebook/ Python / EDA 
+Skills: EDA (Exploratory Data Analysis)/ Python 
 
 - 🔭 I’m currently working on an EDA blog for a conversational AI startup- Saarthi.ai 
-- 🌱 I’m currently learning Python with Django 
+- 🌱 I’m currently learning more about ML and DL modelling.
 - 💬 Ask me about EDA for ML, or anything related to music or art, if you may. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyasgit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
