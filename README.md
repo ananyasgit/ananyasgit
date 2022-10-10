@@ -2,8 +2,6 @@
 #### I am currently a third year engineering student majoring in IT.
 Being an AI and Data Science enthusiast, I have worked on analyzing data related to various ML,DL models (NLP, LSTM, Classification etc.) and training them in Jupyter Notebook. I have previously worked on NLP in conversational AI bots during an internship.
 
-Check out my latest blog on Medium.
-https://medium.com/@agrawalananya17/exploratory-data-analysis-for-beginners-75fc6f16a8e0
 
 Skills: EDA (Exploratory Data Analysis)/ Python 
 
