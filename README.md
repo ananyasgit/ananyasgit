@@ -5,7 +5,7 @@ Being an AI and Data Science enthusiast, I have worked on analyzing data related
 
 Skills: EDA (Exploratory Data Analysis)/ Python 
 
-- 🔭 I’m currently working on an EDA blog for a conversational AI startup- Saarthi.ai 
+- 🔭 I’m currently writing blogs on Medium
 - 🌱 I’m currently learning more about ML and DL modelling.
 - 💬 Ask me about EDA for ML, or anything related to music or art, if you may. 
 
