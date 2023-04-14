@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ananya.
-#### I am currently a third year engineering student majoring in IT.
+#### I am currently a final year engineering student majoring in IT.
 Being an AI and Data Science enthusiast, I have worked on analyzing data related to various ML,DL models (NLP, LSTM, Classification etc.) and training them in Jupyter Notebook. I have previously worked on NLP in conversational AI bots during an internship.
 
 
