@@ -5,11 +5,13 @@ Being an AI and Data Science enthusiast, I have worked on analyzing data related
 - 🔭 &nbsp;I’m currently working on 2 cool DL projects 😉
 - 🌱 &nbsp;I’m currently learning Data Analysis with SQL and Python
 - ⚡ &nbsp;Fun fact: I ❤️ to sketch and paint
+
 📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 Skills: EDA (Exploratory Data Analysis)/ Python / Intermediate SQL / ML / DL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyasgit&show_icons=true&theme=tokyonight)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
