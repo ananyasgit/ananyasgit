@@ -16,4 +16,4 @@ Skills: EDA (Exploratory Data Analysis)/ Python / Intermediate SQL / ML / DL
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyasgit&show_icons=true&theme=tokyonight)
 
 
-
+[![An image of @ananyasgit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyasgit)](https://holopin.io/@ananyasgit)
