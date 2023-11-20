@@ -8,6 +8,7 @@ Being an AI and Data Science enthusiast, I have worked on analyzing data related
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Spotify Song Danceability Prediction](https://medium.com/@agrawalananya17/spotify-song-danceability-prediction-2b999629589a?source=rss-c55af4942c12------2)
 - [Getting started with EDA for NLP](https://medium.com/@agrawalananya17/getting-started-with-eda-for-nlp-64ce63e11372?source=rss-c55af4942c12------2)
 - [Exploratory Data Analysis for Beginners](https://medium.com/@agrawalananya17/exploratory-data-analysis-for-beginners-75fc6f16a8e0?source=rss-c55af4942c12------2)
 <!-- BLOG-POST-LIST:END -->
